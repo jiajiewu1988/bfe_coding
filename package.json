@@ -1,0 +1,8 @@
+{
+  "name": "bre-concepts-and-coding",
+  "version": "0.0.1",
+  "description": "Collection of conceptual and coding questions from bfe.dev",
+  "main": "index.js",
+  "author": "Jerry Wu",
+  "license": "MIT"
+}

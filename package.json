@@ -4,5 +4,11 @@
   "description": "Collection of conceptual and coding questions from bfe.dev",
   "main": "index.js",
   "author": "Jerry Wu",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
 }
